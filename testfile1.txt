@@ -1,1 +1,2 @@
 simple text file1
+aded 1 line
