@@ -1,2 +1,2 @@
 simple text file2
-added 1 line.
+modified this line.
